@@ -7,9 +7,10 @@ using System.Threading.Tasks;
 
 namespace CodeBlogFitness.CMD
 {
+    //1:31:59
     //Первый день создание струтктуры
     //Второй день модульные тесты Модульные и Интеграционные
-    //Второй день 1:20:47 модульные тесты
+    //Второй день 1:23:32 модульные тесты
     class Program
     {
         static void Main(string[] args)
